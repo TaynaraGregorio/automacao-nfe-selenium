@@ -16,17 +16,6 @@ Projeto desenvolvido em Python utilizando Selenium e Pandas para automatizar o p
 3. Os campos são preenchidos automaticamente.
 4. A nota é registrada.
 5. Os campos são limpos para processar a próxima linha da planilha.
-
-## 📂 Estrutura do projeto
-
-```
-automacao-notas-fiscais-selenium/
-│
-├── main.py
-├── notas_emitir.html
-├── exemplo_dados.xlsx
-├── requirements.txt
-└── README.md
 ```
 
 ## 📊 Exemplo da planilha
