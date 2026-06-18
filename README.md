@@ -57,4 +57,4 @@ Demonstrar a automação de processos utilizando Python, Selenium e manipulaçã
 
 ---
 
-Desenvolvido por **Taynara Souza** ❤️
+Desenvolvido por **Taynara Gregório** ❤️
